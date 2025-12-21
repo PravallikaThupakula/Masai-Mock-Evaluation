@@ -58,4 +58,4 @@ let emp = {
   }
 };
 let role = emp?.profile?.role;
-console.log(role)
+console.log(role);
